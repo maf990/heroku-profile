@@ -1,0 +1,11 @@
+{
+    "name": "maf/profile",
+    "description": "profile maf",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Maf\\Profile\\": "src/"
+        }
+    },
+    "require": {}
+}
